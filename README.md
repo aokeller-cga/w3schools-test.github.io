@@ -1,3 +1,6 @@
+This is a comment to be used for the GitHub edit code.
+
+
 # Guestbook for w3schools.com Git tutorial
 
 This is the public GitHub project that you can contribute to.
